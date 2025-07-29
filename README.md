@@ -1,7 +1,7 @@
 ## Hello everyone!
 
-📚 I'm currently studying at the Universidad de La Sabana, in Bogotá, Colombia.
-🌱 I'm studying Java, Python and JavaScript.
+- 📚 I'm currently studying at the Universidad de La Sabana, in Bogotá, Colombia.
+- 🌱 I'm studying Java, Python and JavaScript.
 
 ## 📫 Reach me!
 
