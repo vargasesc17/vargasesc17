@@ -1,8 +1,12 @@
-## Hi there 👋
-
-On construction 🛠️
+## Hello everyone!
 
 📚 I'm currently studying at the Universidad de La Sabana, in Bogotá, Colombia.
+🌱 I'm studying Java, Python and JavaScript.
+
+# 📫 Reach me!
+
+[LinkedIn](https://www.linkedin.com/in/carlos-andr%C3%A9s-vargas-escobar-968152377)
+
 
 
 <!--
