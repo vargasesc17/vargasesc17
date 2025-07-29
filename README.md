@@ -2,6 +2,9 @@
 
 On construction 🛠️
 
+📚 I'm currently studying at the Universidad de La Sabana, in Bogotá, Colombia.
+
+
 <!--
 **vargasesc17/vargasesc17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
